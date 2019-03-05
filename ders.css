@@ -1,0 +1,133 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+    
+    
+    
+    }
+    .header{
+    height: 75px;
+    background: rgba(255, 245, 245, 0.466) ;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: 980px;
+    margin: 0 auto;
+    }
+        .clear{
+clear: both;
+        
+    
+    
+    
+    }
+    .header .menu{
+        float: right;
+    }
+    .header .menu ul li{
+        padding: 20px;
+        display: inline-block
+    }
+    .logo{
+    color: black;
+        float:left ;
+    }
+    .birinci{
+        float: right;
+    }
+    .button{
+    float: right;
+    padding-right: 80px
+    
+    }
+    .content{
+    
+    background: color #777;
+   width:   1200px;
+    float: left;
+    float: right;
+    
+
+    
+    }
+    
+    .ikinci{
+    padding-bottom: 30px;
+    padding-top: 60px;
+    padding-left: 30px
+    
+    }
+    .ucuncu{
+        font-family: poppins,sans-serif;
+        padding-left: 30px
+        
+    }
+    .dorduncu{
+    
+        color: #777;
+        font-family: poppins,sans-serif;
+        font-size: 14px;
+        font-weight: 300;
+        padding-left: 30px
+    }
+    .besinci{
+    
+        background-color: #8490ff;
+        color: orchid;
+        padding-left: 35px;
+        margin: 50px
+    
+    }
+    .altinci{
+    float: right;
+    right: 50px;
+    padding-top: 2px;
+    top: 40px
+    
+    
+    }
+    .alt .content{
+    padding-top :30px;
+    
+    
+    }
+    .clear{
+        clear:both;
+    }
+    .left{
+        float:left;
+        width:50%;
+    }
+    .right{
+        float:left;
+        width:50%;
+    }
+.rightt{
+    
+ 
+    padding-right:  1px;
+    padding-left: 800px;
+    padding-bottom: 1000px;
+    padding-top: -1500px
+
+
+}
+.tesdiqlenme{
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #8490ff;
+    color: #fff;
+    background: -webkit-linear-gradient(0deg,#8490ff 0%,#62bdfc 100%);
+    
+}
+.clear{
+
+    clear: both;
+
+}
+.container{
+
+    float:right;
+    padding-right:-60px
+}
+
